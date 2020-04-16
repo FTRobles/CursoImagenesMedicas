@@ -1,1 +1,1 @@
-PRácticas de laboratorio
+Prácticas de laboratorio
